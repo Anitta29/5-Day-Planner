@@ -1,0 +1,9 @@
+#jumbotron {
+    text-align: center;
+}
+.col-sm-2 {
+    background-color: aqua;
+}
+.col-md-8 {
+    background-color: blueviolet;
+}
