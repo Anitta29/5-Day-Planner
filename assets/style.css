@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-image: url(coffeebean.jpg);
+    background-image: url(./images/coffeebean.jpg);
     background-size: cover;
     font-family: 'Berkshire Swash', cursive;
 
@@ -24,7 +24,7 @@ body {
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
-    background-image: url(coffee2.jpg);
+    background-image: url(./images/coffee2.jpg);
     background-size: cover;
     color: white;
 
@@ -78,10 +78,7 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
-   {
-    background-image: url(coffeebean.jpg);
-    background-size: center;
-  }
+   
   .col-md-1 {
     color: black;
   }
